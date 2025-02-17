@@ -7,7 +7,7 @@ I am a dedicated student at **Sir Syed University of Engineering & Technology** 
 
 ## 🛠️ Languages and Tools  
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -21,7 +21,7 @@ I am a dedicated student at **Sir Syed University of Engineering & Technology** 
 
 ## 🔗 Connect with Me  
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/ukashausman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
