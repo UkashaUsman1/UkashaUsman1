@@ -1,22 +1,7 @@
-# Hi there 👋 I'm Ukasha Usman  
+# Hi, I'm Ukasha Usman! 👋
 
 ## 🚀 About Me  
-I am a dedicated student at **Sir Syed University of Engineering & Technology** in Karachi, Sindh, Pakistan.  
-My passion lies in **web development**, where I strive to create user-friendly and visually appealing websites.  
-I am constantly learning and eager to explore new technologies and frameworks.  
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark" width="49%" />
-</div>
+I am a dedicated student at **Sir Syed University of Engineering & Technology** in Karachi, Sindh, Pakistan. My passion lies in **web development**, where I strive to create user-friendly and visually appealing websites. I am constantly learning and eager to explore new technologies and frameworks. 
 
 ---
 
